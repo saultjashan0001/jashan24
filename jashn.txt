@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 it is the new file.
 it is the change in the branch
 this is new line in new branch.
+=======
+This is the new line in master:
+>>>>>>> main
