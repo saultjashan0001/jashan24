@@ -1,2 +1,1 @@
-it is the new file.
-it is the change in the branch
+This is the new line in master:
